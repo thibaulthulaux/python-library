@@ -8,10 +8,15 @@
     "streetsidesoftware.code-spell-checker",
     // Code Formatter
     "esbenp.prettier-vscode",
-    // Jinja support
-    "wholroyd.jinja",
+    "ms-python.black-formatter",
+    // Intellicode
+    "visualstudioexptteam.vscodeintellicode",
     // Python Extensions
     "ms-python.python",
-    "njpwerner.autodocstring"
+    "njpwerner.autodocstring",
+    "donjayamanne.python-environment-manager",
+    "kevinrose.vsc-python-indent",
+    // Jinja support
+    "wholroyd.jinja"
   ]
 }
